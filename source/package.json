@@ -1,0 +1,21 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adaptivecard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "3.13.1",
+    "fs": "0.0.1-security",
+    "googleapis": "39.0.0",
+    "http": "0.0.0",
+    "https": "1.0.0",
+    "intl": "1.2.5",
+    "restify": "8.2.0"
+  }
+}
